@@ -1,0 +1,12 @@
+name: health
+channels:
+  - defaults
+dependencies:
+  - matplotlib
+  - jupyter
+  - pandas
+  - seaborn
+  - scikit-learn
+  - ipykernel
+  - numpy
+prefix: C:\Users\tamar\anaconda3\envs\health
